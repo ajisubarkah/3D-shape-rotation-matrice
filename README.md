@@ -1,7 +1,7 @@
 # 3D-shape-rotation-matrice
 Create a 3D alphabet shape using python language with 360 degree rotation.
 
-[scree](src/example.gif)
+[screen](https://raw.githubusercontent.com/ajisubarkah/3D-shape-rotation-matrice/master/src/example.gif)
 
 ## How to use
 
